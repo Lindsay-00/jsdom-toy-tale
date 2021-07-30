@@ -101,5 +101,5 @@ toyCollectionDiv.addEventListener('click', e => {
 
 
 
-/* APP INIT */
+
 renderAllToys()
